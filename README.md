@@ -1,6 +1,6 @@
 # shopDev
 
-An e-commerce site. (shopDev)
+🛒 An e-commerce site. (shopDev)
 
 ## Requirements:
 
